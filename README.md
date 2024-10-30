@@ -12,7 +12,7 @@ This is a collaborative list of resources and ideas to enable [_Amt Local Data S
 ## Infrastruktur
 * Standard für Datenmodelle (vgl. INTERLIS)
 * Pool-Ausschreibung bzgl. Tech Infrastruktur (via BK)
-* [Renku Lab](https://blog.renkulab.io/renku-2/): "A Renku project brings together your code, data, environment, and workflows."
+* [Renku Lab](https://renkulab.io/): "A Renku project brings together your code, data, environment, and workflows." ([2.0 in Beta](https://blog.renkulab.io/renku-2/))
 
 ## Data Governance
 * Rollenmodell teilen: [Bericht EMBAV](https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oe/2023/96/de/pdf/fedlex-data-admin-ch-eli-oe-2023-96-de-pdf.pdf): 4. Abschnitt: Harmonisierung der Daten von Bundesbehörden 
