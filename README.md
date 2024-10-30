@@ -1,6 +1,6 @@
 # Awesome list of resources and ideas for and by _Amt Local Data Stewards_
 
-This is a collaborative list of resources and ideas to enable [_Amt Local Data Stewards_](https://i14y-ch.github.io/handbook/de/2_rollen_prozesse/rollen/) to execute their roles and manage the (open) data of their respective Swiss federal offices.
+This is a collaborative list of resources and ideas to enable [_Amt Local Data Stewards_](https://i14y-ch.github.io/handbook/de/2_rollen_prozesse/rollen/) to execute their roles and manage the (open) data of their respective Swiss federal offices. Add to it by creating a PR!
 
 ## Prozess Dateninventarisierung und Publikationen
 
