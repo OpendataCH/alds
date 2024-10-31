@@ -10,8 +10,8 @@ This is a collaborative list of resources and ideas to enable [_Amt Local Data S
 * Standard [DCAT-AP-CH](https://www.dcat-ap.ch/)
 
 ## Infrastruktur
-* Standard für Datenmodelle (vgl. INTERLIS)
-* Pool-Ausschreibung bzgl. Tech Infrastruktur (via BK)
+* Standard für Datenmodelle (vgl. [INTERLIS](https://www.interlis.ch/) für Geodaten)
+* Pool-Ausschreibung für technische Infrastruktur (via BK)
 * [Renku Lab](https://renkulab.io/): "A Renku project brings together your code, data, environment, and workflows." ([2.0 in Beta](https://blog.renkulab.io/renku-2/))
 * [Piveau](https://www.piveau.de/): "Datenmanagement-Ökosystem für den öffentlichen Sektor"
 * [HelloDATA BE](https://github.com/kanton-bern/hellodata-be): "Open-Source Enterprise Data Platform in a single Portal "
@@ -24,7 +24,7 @@ This is a collaborative list of resources and ideas to enable [_Amt Local Data S
 * Community of Practice (CoP): informelle Gruppe von Local Data Stewards (z.B. fedpol, BJ) trifft sich z.B: einmal monatlich physisch; [I14Y](https://www.linkedin.com/posts/i14y_i14y-interoperabilitaeut-bfs-activity-7252951828542185473-vWYb?utm_source=share&utm_medium=member_desktop)
 
 ## Data Literacy/Kompetenzen
-* Ansprechperson beim BFS-Kompetenzzentrum für niederschwellige Unterstützung vgl. COGIS
+* Zentrale Anlaufstelle beim BFS für niederschwellige Unterstützung (vgl. [KOGIS](https://www.swisstopo.admin.ch/de/koordination-geo-information-und-services-kogis) für Geoinformation)
 * Schulungen für seitens Local Data Stewards für Fachexpertinnen
 * (Kollaboratives) Ressourcenverzeichnis
 * digitaler Austauschkanal (z.B. Teams)
