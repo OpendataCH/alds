@@ -32,6 +32,9 @@ This is a collaborative list of resources and ideas to enable [_Amt Local Data S
 * OGD Weiterbildungen z.B. [Weiterbildung Data Management und Open Government Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/)
 
 ## Austausch User
+* [Runder Tisch](https://www.bfs.admin.ch/asset/de/19004152)
+* Informelle Netzwerktreffen
+* Infoveranstaltungen
 * Hackathons
 * User Groups
 * Wer sind unsere Nutzenden? → Priorisieren: Welche Daten haben einen gesellschaftlichen Wert?
