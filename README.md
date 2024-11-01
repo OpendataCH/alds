@@ -39,5 +39,5 @@ This is a collaborative list of resources and ideas to enable [_Amt Local Data S
 * Hackathons
 * User Groups
 * Wer sind unsere Nutzenden? → Priorisieren: Welche Daten haben einen gesellschaftlichen Wert?
-* CoP Kommunikation
+* CoP Kommunikation (via GOGD)
 * [Forum OGD](https://confluence.swissdatacommunity.ch/display/SHAREDOGD)
