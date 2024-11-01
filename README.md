@@ -32,7 +32,7 @@ This is a collaborative list of resources and ideas to enable [_Amt Local Data S
 * digitaler Austauschkanal (z.B. Teams)
 * Fragen/Antworten-Plattform (vgl. [Stackoverflow](https://stackoverflow.com/))
 * OGD Weiterbildungen z.B. [Weiterbildung Data Management und Open Government Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/)
-* Ausbildung zu Grundlagen der Datenkompetenz
+* EPA-Basisausbildungen im Bereich Data Literacy für Mitarbeitende in den Fachbereichen
 
 ## Austausch User
 * [Runder Tisch](https://www.bfs.admin.ch/asset/de/19004152)
