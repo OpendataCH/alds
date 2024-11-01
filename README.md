@@ -24,10 +24,10 @@ This is a collaborative list of resources and ideas to enable [_Amt Local Data S
 * Community of Practice (CoP): informelle Gruppe von Local Data Stewards (z.B. fedpol, BJ) trifft sich z.B: einmal monatlich physisch; siehe [I14Y](https://www.linkedin.com/posts/i14y_i14y-interoperabilitaeut-bfs-activity-7252951828542185473-vWYb?utm_source=share&utm_medium=member_desktop)
 
 ## Data Literacy/Kompetenzen
-* Zentrale Anlaufstelle beim BFS für niederschwellige Unterstützung (vgl. [KOGIS](https://www.swisstopo.admin.ch/de/koordination-geo-information-und-services-kogis) für Geoinformation)
+* Zentrale Anlaufstelle/Ansprechperson beim BFS-Kompetenzzentrum für niederschwellige Unterstützung (vgl. [KOGIS](https://www.swisstopo.admin.ch/de/koordination-geo-information-und-services-kogis) für Geoinformation)
 * Gemeinsam Anforderungen/Bedarf für Schulungen definieren
-* Schulungen für seitens Local Data Stewards für Fachexpertinnen
-* (Kollaboratives) Ressourcenverzeichnis
+* Gemeinsame Schulungen oder Basis-Schulungsunterlagen seitens Local Data Stewards für Fachexpertinnen
+* (Kollaboratives) Ressourcenverzeichnis für Knowledge Sharing
 * digitaler Austauschkanal (z.B. Teams)
 * Fragen/Antworten-Plattform (vgl. [Stackoverflow](https://stackoverflow.com/))
 * OGD Weiterbildungen z.B. [Weiterbildung Data Management und Open Government Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/)
@@ -38,6 +38,7 @@ This is a collaborative list of resources and ideas to enable [_Amt Local Data S
 * Infoveranstaltungen, [Meetups (vgl. opentransportdata.swiss](https://opentransportdata.swiss/de/news/#2024_09_12_Meet-Up_International_routing_on_the_example_of_Linking_Alps)
 * Hackathons
 * User Groups
+* Beobachtung und Monitoring der Nutzung von Daten, um den Nutzen von OGD zu dokumentieren
 * Wer sind unsere Nutzenden? → Priorisieren: Welche Daten haben einen gesellschaftlichen Wert?
 * CoP Kommunikation (via GOGD)
 * [Forum OGD](https://confluence.swissdatacommunity.ch/display/SHAREDOGD)
