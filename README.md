@@ -57,7 +57,7 @@ This is a collaborative list of existing formats, resources and ideas (_italics_
 ## Austausch User
 * [Runder Tisch](https://www.bfs.admin.ch/asset/de/19004152)
 * _Informelle Netzwerktreffen_
-* _Infoveranstaltungen, [Meetups (vgl. opentransportdata.swiss](https://opentransportdata.swiss/de/news/#2024_09_12_Meet-Up_International_routing_on_the_example_of_Linking_Alps)_
+* _Infoveranstaltungen, [Meetups (vgl. opentransportdata.swiss](https://opentransportdata.swiss/de/news/#2024_09_12_Meet-Up_International_routing_on_the_example_of_Linking_Alps))_
 * _Hackathons_
 * _User Groups_
 * _Beobachtung und Monitoring der Nutzung von Daten, um den Nutzen von OGD zu dokumentieren_
