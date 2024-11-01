@@ -23,6 +23,31 @@ This is a collaborative list of existing formats, resources and ideas (_italics_
 * _Glossar für Datenmanagement: für Kommunikation zwischen verschiedenen Rollen, Daten und IT_
 * Fachgremium zu Datenmanagement und Dateninteroperabilität der Bundesverwaltung
 * _Community of Practice (CoP): informelle Gruppe von Local Data Stewards trifft sich z.B: einmal monatlich physisch_; siehe [I14Y](https://www.linkedin.com/posts/i14y_i14y-interoperabilitaeut-bfs-activity-7252951828542185473-vWYb?utm_source=share&utm_medium=member_desktop); einzelne Gruppierungen existieren bereits
+* * Rechtlicher Rahmen:
+  - EMBAG
+  - sektorielle/subsidiäre Bestimmungen ?
+* Standard-Rollen der Datenbewirtschaftung:
+  - [Bericht EMBAV](https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oe/2023/96/de/pdf/fedlex-data-admin-ch-eli-oe-2023-96-de-pdf.pdf): 4. Abschnitt: Harmonisierung der Daten von Bundesbehörden
+  - https://i14y-ch.github.io/handbook/de/2_rollen_prozesse/rollen/
+  - https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/daten-statistik/kompetenzteam-datenmanagement/rollenmodell
+* Glossare --> Eine gemeinsame Semantik für die Zusammenarbeit zwischen Daten und IT! (und für die Beschreibung von Daten)
+  - Termdat, z.B. https://www.termdat.bk.admin.ch/search/entry/387641?s=datengouvernanz&sl=2,6,7,8,3&tl=2,6,7,8,3
+  - https://www.datainstitute.io/wissen/glossar
+  - https://i14y-ch.github.io/handbook/de/7_glossar/
+  - https://handbook.opendata.swiss/de/content/glossar/begriffe.html
+* Datenkataloge als Grundlage der Data governance:
+  - https://www.dcat-ap.ch/ (standardisierte Dokumentation von Daten, open/shared/closed)
+* Bausteine für Datenräume aus "Datenökosystem Schweiz"
+  - https://github.com/swiss/api-guidelines
+  - ...
+* Link zur Datenarchitektur:
+  - https://pubs.opengroup.org/togaf-standard/info/domains.html (Quelle für https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur.html)
+  - Architekturprinzipien
+* Data Management/Data Governance Frameworka:
+  - DAMA DMBOK: https://technicspub.com/data-governance-strategy/
+  - "Non Invasive Data Governance" https://www.linkedin.com/pulse/non-invasive-data-governance-most-practical-pragmatic-seiner-kuc4e/
+  - DCAM: https://edmcouncil.org/frameworks/dcam/
+  - Data Mesh ("(computational) federated data governance"): https://www.starburst.io/blog/data-mesh-and-starburst-federated-computational-governance/
 
 ## Data Literacy/Kompetenzen
 * Z_entrale Anlaufstelle/Ansprechperson beim BFS-Kompetenzzentrum für niederschwellige Unterstützung (vgl. [KOGIS](https://www.swisstopo.admin.ch/de/koordination-geo-information-und-services-kogis) für Geoinformation)_
