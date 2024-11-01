@@ -38,7 +38,7 @@ This is a collaborative list of existing formats, resources and ideas (_italics_
 * Link zur Datenarchitektur:
   - https://pubs.opengroup.org/togaf-standard/info/domains.html (Quelle für https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur.html)
   - Architekturprinzipien
-* Data Management/Data Governance Frameworka:
+* Data Management/Data Governance Frameworks:
   - DAMA DMBOK: https://technicspub.com/data-governance-strategy/
   - "Non Invasive Data Governance" https://www.linkedin.com/pulse/non-invasive-data-governance-most-practical-pragmatic-seiner-kuc4e/
   - DCAM: https://edmcouncil.org/frameworks/dcam/
