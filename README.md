@@ -18,14 +18,9 @@ This is a collaborative list of existing formats, resources and ideas (_italics_
 * [HelloDATA BE](https://github.com/kanton-bern/hellodata-be): "Open-Source Enterprise Data Platform in a single Portal "
 
 ## Data Governance
-* _Rollenmodelle untereinander teilen_
-* [Bericht EMBAV](https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oe/2023/96/de/pdf/fedlex-data-admin-ch-eli-oe-2023-96-de-pdf.pdf): 4. Abschnitt: Harmonisierung der Daten von Bundesbehörden 
-* _Glossar für Datenmanagement: für Kommunikation zwischen verschiedenen Rollen, Daten und IT_
-* Fachgremium zu Datenmanagement und Dateninteroperabilität der Bundesverwaltung
-* _Community of Practice (CoP): informelle Gruppe von Local Data Stewards trifft sich z.B: einmal monatlich physisch_; siehe [I14Y](https://www.linkedin.com/posts/i14y_i14y-interoperabilitaeut-bfs-activity-7252951828542185473-vWYb?utm_source=share&utm_medium=member_desktop); einzelne Gruppierungen existieren bereits
 * * Rechtlicher Rahmen:
   - EMBAG
-  - sektorielle/subsidiäre Bestimmungen ?
+  - sektorielle/subsidiäre Bestimmungen?
 * Standard-Rollen der Datenbewirtschaftung:
   - [Bericht EMBAV](https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oe/2023/96/de/pdf/fedlex-data-admin-ch-eli-oe-2023-96-de-pdf.pdf): 4. Abschnitt: Harmonisierung der Daten von Bundesbehörden
   - https://i14y-ch.github.io/handbook/de/2_rollen_prozesse/rollen/
