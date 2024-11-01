@@ -18,7 +18,7 @@ This is a collaborative list of existing formats, resources and ideas (_italics_
 * [HelloDATA BE](https://github.com/kanton-bern/hellodata-be): "Open-Source Enterprise Data Platform in a single Portal "
 
 ## Data Governance
-* * Rechtlicher Rahmen:
+* Rechtlicher Rahmen:
   - EMBAG
   - sektorielle/subsidiäre Bestimmungen?
 * Standard-Rollen der Datenbewirtschaftung:
@@ -45,7 +45,7 @@ This is a collaborative list of existing formats, resources and ideas (_italics_
   - Data Mesh ("(computational) federated data governance"): https://www.starburst.io/blog/data-mesh-and-starburst-federated-computational-governance/
 
 ## Data Literacy/Kompetenzen
-* Z_entrale Anlaufstelle/Ansprechperson beim BFS-Kompetenzzentrum für niederschwellige Unterstützung (vgl. [KOGIS](https://www.swisstopo.admin.ch/de/koordination-geo-information-und-services-kogis) für Geoinformation)_
+* _Zentrale Anlaufstelle/Ansprechperson beim BFS-Kompetenzzentrum für niederschwellige Unterstützung (vgl. [KOGIS](https://www.swisstopo.admin.ch/de/koordination-geo-information-und-services-kogis) für Geoinformation)_
 * _Gemeinsam Anforderungen/Bedarf für Schulungen definieren_
 * _Gemeinsame Schulungen oder Basis-Schulungsunterlagen seitens Amt Local Data Stewards für Data Stewards in den Fachbereichen/Fachexpertinnen_
 * _EPA-Basisausbildungen im Bereich Data Literacy für Mitarbeitende in den Fachbereichen_
