@@ -27,7 +27,7 @@ This is a collaborative list of resources and ideas to enable [_Amt Local Data S
 ## Data Literacy/Kompetenzen
 * Zentrale Anlaufstelle/Ansprechperson beim BFS-Kompetenzzentrum für niederschwellige Unterstützung (vgl. [KOGIS](https://www.swisstopo.admin.ch/de/koordination-geo-information-und-services-kogis) für Geoinformation)
 * Gemeinsam Anforderungen/Bedarf für Schulungen definieren
-* Gemeinsame Schulungen oder Basis-Schulungsunterlagen seitens Local Data Stewards für Fachexpertinnen
+* Gemeinsame Schulungen oder Basis-Schulungsunterlagen seitens Amt Local Data Stewards für Data Stewards in den Fachbereichen/Fachexpertinnen
 * (Kollaboratives) Ressourcenverzeichnis für Knowledge Sharing
 * digitaler Austauschkanal (z.B. Teams)
 * Fragen/Antworten-Plattform (vgl. [Stackoverflow](https://stackoverflow.com/))
