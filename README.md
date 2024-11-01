@@ -12,6 +12,7 @@ This is a collaborative list of resources and ideas to enable [_Amt Local Data S
 ## Infrastruktur
 * Standard für Datenmodelle (vgl. [INTERLIS](https://www.interlis.ch/) für Geodaten)
 * Pool-Ausschreibung für technische Infrastruktur (via Umfrage der BK)
+* Umgebung/Plattform für Datenanalyse und Data Science
 * [Renku Lab](https://renkulab.io/): "A Renku project brings together your code, data, environment, and workflows." ([2.0 in Beta](https://blog.renkulab.io/renku-2/))
 * [Piveau](https://www.piveau.de/): "Datenmanagement-Ökosystem für den öffentlichen Sektor"
 * [HelloDATA BE](https://github.com/kanton-bern/hellodata-be): "Open-Source Enterprise Data Platform in a single Portal "
@@ -31,6 +32,7 @@ This is a collaborative list of resources and ideas to enable [_Amt Local Data S
 * digitaler Austauschkanal (z.B. Teams)
 * Fragen/Antworten-Plattform (vgl. [Stackoverflow](https://stackoverflow.com/))
 * OGD Weiterbildungen z.B. [Weiterbildung Data Management und Open Government Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-open-government-data/)
+* Ausbildung zu Grundlagen der Datenkompetenz
 
 ## Austausch User
 * [Runder Tisch](https://www.bfs.admin.ch/asset/de/19004152)
