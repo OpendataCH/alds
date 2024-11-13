@@ -15,7 +15,8 @@ This is a collaborative list of existing formats, resources and ideas (_italics_
 * _Umgebung/Plattform für Datenanalyse und Data Science_
 * [Renku Lab](https://renkulab.io/): "A Renku project brings together your code, data, environment, and workflows." ([2.0 in Beta](https://blog.renkulab.io/renku-2/))
 * [Piveau](https://www.piveau.de/): "Datenmanagement-Ökosystem für den öffentlichen Sektor"
-* [HelloDATA BE](https://github.com/kanton-bern/hellodata-be): "Open-Source Enterprise Data Platform in a single Portal "
+* [HelloDATA BE](https://github.com/kanton-bern/hellodata-be): "Open-Source Enterprise Data Platform in a single Portal"
+* [Open Data Forum bei Open CoDE ](https://discourse.opencode.de/c/opendata/755) (Deutschland): z.B. [kostenlose](https://discourse.opencode.de/c/opendata/kostenfrei-produkte-tools-software/763) und [kostenpflichtige](https://discourse.opencode.de/c/opendata/produkte-tools-software/756) Produkte, Tools und Software
 
 ## Data Governance
 * Rechtlicher Rahmen:
@@ -65,3 +66,4 @@ This is a collaborative list of existing formats, resources and ideas (_italics_
 * _Wer sind unsere Nutzenden? → Priorisieren: Welche Daten haben einen gesellschaftlichen Wert?_
 * CoP Kommunikation (via GOGD)
 * [Forum OGD](https://confluence.swissdatacommunity.ch/display/SHAREDOGD)
+* [Open Data Forum bei Open CoDE ](https://discourse.opencode.de/c/opendata/755) (Deutschland): z.B. [Anwendungen](https://discourse.opencode.de/c/opendata/anwendungen/757) und [Datenbedarfe](https://discourse.opencode.de/c/opendata/datenbedarfe/758)
