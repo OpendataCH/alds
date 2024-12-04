@@ -8,6 +8,8 @@ This is a collaborative list of existing formats, resources and ideas (_italics_
 * [OGD-Richtlinien](https://handbook.opendata.swiss/de/content/glossar/bibliothek/ogd-richtlinien.html) / [Handbook](https://handbook.opendata.swiss/de/index.html) 
 * _Standardprozess_
 * Standard [DCAT-AP-CH](https://www.dcat-ap.ch/)
+* Unterstützung, um Datenkatalog auf i14y.admin.ch zu erstellen:i14y[at]bfs.admin.ch
+* Unterstützung für Klaissifizierung und Publikation von OGD via opendata[at]bfs.admin.ch
   
 ## Infrastruktur
 * _Standard für Datenmodelle (vgl. [INTERLIS](https://www.interlis.ch/) für Geodaten)_
@@ -44,6 +46,11 @@ This is a collaborative list of existing formats, resources and ideas (_italics_
   - "Non Invasive Data Governance" https://www.linkedin.com/pulse/non-invasive-data-governance-most-practical-pragmatic-seiner-kuc4e/
   - DCAM: https://edmcouncil.org/frameworks/dcam/
   - Data Mesh ("(computational) federated data governance"): https://www.starburst.io/blog/data-mesh-and-starburst-federated-computational-governance/
+* Fähigkeitskonzept Daten- und Informationsmanagement der BK (to be published)
+* Fachgremium Datenmanagement und Dateninteroperabilität mit...
+  * AG Data Stewardship Rollen
+  * AG Datenbegriffe
+  * _Idee: AG Governance (Strategie)_
 
 ## Data Literacy/Kompetenzen
 * _Zentrale Anlaufstelle/Ansprechperson beim BFS-Kompetenzzentrum für niederschwellige Unterstützung (vgl. [KOGIS](https://www.swisstopo.admin.ch/de/koordination-geo-information-und-services-kogis) für Geoinformation)_
